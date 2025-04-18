@@ -52,15 +52,21 @@ poetry run pytest
 
 ## Running frontend
 
-1. **Install dependencies**
+1. **Navigate to the `front_end` directory**
+   
+   ```bash
+   cd front_end
+   ```
+
+2. **Install dependencies**
 
    ```bash
-   npm run i
+   npm i
    ```
    
-2. Create `.env` file in `front_end` directory (see `.env.example` for reference)
+3. **Create `.env` file in `front_end` directory (see `.env.example` for reference)**
 
-3. Run the app in dev mode
+4. **Start the development server**
 
    ```bash
    npm run dev
