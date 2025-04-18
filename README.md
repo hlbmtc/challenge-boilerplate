@@ -12,7 +12,7 @@ This project is a Django application using Poetry for dependency management.
 1. **Clone the repository and navigate into the project directory**
 
    ```bash
-   git clone git@github.com:Metaculus/prism-challenge.git
+   git clone git@github.com:hlbmtc/challenge-boilerplate.git
    cd prism-challenge
    ```
 
